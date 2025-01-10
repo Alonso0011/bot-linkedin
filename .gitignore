@@ -21,3 +21,9 @@ venv/
 # Arquivos temporários do sistema operacional
 .DS_Store
 Thumbs.db
+
+# Ignorar o arquivo ZIP do ChromeDriver
+chromedriver-win64.zip
+
+# Ignorar o diretório do ChromeDriver
+chromedriver-win64/
