@@ -1,0 +1,23 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Logs e capturas de tela de erros
+*.log
+erro_login.png
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Pastas de ambientes virtuais
+venv/
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações de IDEs em geral
+.idea/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
