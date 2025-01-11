@@ -4,6 +4,8 @@
 # Logs e capturas de tela de erros
 *.log
 erro_login.png
+erro_iteracao_perfis.png
+erro_pessoas_filtro.png
 
 # Arquivos temporários do Python
 __pycache__/
